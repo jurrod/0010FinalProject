@@ -1,4 +1,6 @@
-# 0010FinalProject
+![call me mf pauli picassoooo!](img/teamBanner.png "TEAM BANNER BABY")
+
+# 0010FinalProject - a colorful odyssey guided by the we r team 99
 
 
 ## Introduction 
